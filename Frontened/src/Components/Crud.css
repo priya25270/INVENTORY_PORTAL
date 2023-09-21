@@ -1,0 +1,50 @@
+/* Crud.css */
+
+#signup {
+    max-width: 890px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-image: url('https://media.istockphoto.com/id/157681198/photo/dandelion-seed.webp?b=1&s=170667a&w=0&k=20&c=o8JhDhTWH6WeB2yXixZVwLy1HQ0tR01FKdQM6EIeX3g=');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250vh;
+  }
+  
+  #signup h6 {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  #signup input[type="text"],
+  #signup input[type="long"] {
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    
+  }
+  
+  #signup button {
+    background-color:cadetblue;
+    color: #fff;
+    padding: 12px 20px;
+    cursor:grabbing;
+    font-size: 16px;
+    float: right;
+    border-radius: 20px;
+  margin-right: 20px;
+  text-align: center;
+    
+  }
+  #id{
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+  }
+  
+  
+  
+  

@@ -1,0 +1,62 @@
+/* Contact.css */
+
+/* Contact Container */
+.contact-container {
+    
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    max-width: 600px;
+    background-image: url('https://media.istockphoto.com/id/1371694397/photo/colourful-multi-color-holi-dry-powder-colours-called-abeer-or-gulaal-in-bright-vibrant-red.webp?b=1&s=170667a&w=0&k=20&c=olXv_4tkh_WauPCj-prytpR_YKi2FDp6WZFTJSX25l8=');
+    height: 220vh;
+  }
+  
+  /* Contact Content */
+  .contact-content {
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+  }
+  
+  /* Contact Methods */
+  .contact-method {
+    background-color:whitesmoke;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(239, 236, 236, 0.925);
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  /* Contact Method Headings */
+  .contact-method h3 {
+    color: #333;
+  }
+  
+  /* Email Link */
+  .contact-method a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  /* Social Media Icons */
+  .contact-method ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact-method ul li {
+    margin-bottom: 5px;
+  }
+  
+  .contact-method ul li a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  /* Business Address */
+  .contact-method p {
+    color: #555;
+}

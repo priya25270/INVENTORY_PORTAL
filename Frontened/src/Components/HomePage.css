@@ -1,0 +1,44 @@
+.about-page {
+    background-image: url('https://images.unsplash.com/photo-1579546928686-286c9fbde1ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA2fHxiYWNrZ3JvdW5kfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60'); /* Replace with your background image URL */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:rgb(28, 28, 27); 
+    padding: 40px;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    font-weight: bolder;
+  }
+  
+  .about-page h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+  }
+  
+  .about-page p {
+    font-size: 19px;
+    margin-bottom: 15px;
+    
+  }
+  .about-page section {
+    background-color: rgba(237, 245, 237, 0.555); 
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: left;
+    
+  }
+  
+  .about-page h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .about-page ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+ 

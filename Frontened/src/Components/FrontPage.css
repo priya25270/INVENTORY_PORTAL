@@ -1,0 +1,21 @@
+button{
+    background-color:cadetblue;
+    color: #fff;
+    padding: 12px 20px;
+    cursor:grabbing;
+    font-size: 16px;
+    float: right;
+    border-radius: 20px;
+  margin-right: 20px;
+  }
+.front-page{
+display: flex;
+flex-direction: column;
+height: 100vh;
+background-image: url('https://png.pngtree.com/background/20230520/original/pngtree-drones-can-help-with-inventory-management-in-warehouses-picture-image_2680977.jpg');
+background-size:cover;
+background-repeat: no-repeat;
+}
+.text-page{
+ color: white;
+}
